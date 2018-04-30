@@ -1,1 +1,1 @@
-# SSL_CERT_FAILED_WORKAROUND
+# Add the code snippet in your python code prior to any request.
